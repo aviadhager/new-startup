@@ -1,0 +1,7 @@
+this is a new code for my new startup
+
+#!/bin/bash
+
+<html>
+	<p>:x
+</html>
